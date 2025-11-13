@@ -4,8 +4,9 @@ out/
 src/
 .gitignore
 tsconfig.json
-tslint.json
 node_modules
 webpack.config.js
 **/*.map
 **/*.ts
+pnpm*
+build.bat
